@@ -1,1 +1,2 @@
-i m druk
+i m druk\.
+b.txt
